@@ -24,8 +24,6 @@ When a `color` div is clicked do the following:
 
 You can see a working demo, [here](https://jniziol.github.io/SD110-colored-blocks-demo/)
 
-> Notice that the Javascript file is __NOT__ being loaded by the HTML. You will need to update your HTML to ensure that it it loading the JS file.
-
 ### NOTE
 
 There is a known timing bug that occurs with `ALERT`. Your last square will __NOT__ be colored until after the alert pops up. This is a known issue with the Web Api. Do not fret, it is not an issue with your code.
