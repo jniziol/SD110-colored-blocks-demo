@@ -27,3 +27,5 @@ You can see a working demo, [here](https://jniziol.github.io/SD110-colored-block
 ### NOTE
 
 There is a known timing bug that occurs with `ALERT`. Your last square will __NOT__ be colored until after the alert pops up. This is a known issue with the Web Api. Do not fret, it is not an issue with your code.
+
+When your done, check out one possible solution here.
